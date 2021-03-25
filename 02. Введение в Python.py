@@ -45,3 +45,5 @@ if task == 3:
         print(f'{name} {surname}, {old} год, вес {weight} - следует обратится к врачу!')
     else:
         print(f'{name} {surname} - радуйтесь жизни у вас хорошее состояние!')
+
+# test pull requests
